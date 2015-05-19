@@ -1,0 +1,9 @@
+Building JewelCoin
+
+See doc/readme-qt.rst for instructions on building JewelCoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of JewelCoin.
+
+See doc/build-*.txt for instructions on building JewelCoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of JewelCoin.
